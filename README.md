@@ -13,7 +13,7 @@ The queries cover business questions such as customer behavior, revenue insights
 - `music_store_analysis.sql` → Contains all SQL queries (numbered and explained).
 - `README.md` → Documentation of the project.
 - `schema_diagram.png` → Database schema diagram (for reference).
-- `excel_files/` → Folder containing Excel files.
+- `excel_files` → Folder containing Excel files.
 
 📊 Queries Included
 
