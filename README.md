@@ -15,7 +15,8 @@ The queries cover business questions such as customer behavior, revenue insights
 - `schema_diagram.png` → Database schema diagram (for reference).
 - `excel_files` → Folder containing Excel files.
 
-📊 Queries Included
+## 📊 Queries Overview
+Here are the 13 business questions solved in this project:
 
 1. Senior-most employee – Find the top-level employee based on job title.
 2. Top 3 invoice countries – Countries with the most invoices.
@@ -32,7 +33,7 @@ The queries cover business questions such as customer behavior, revenue insights
 13. Most popular genre per country – Top genre in each country by purchases.
 
 
-## Queries
+## 📝 Detailed Queries
 1. **Who is the senior most employee based on job title?**
 
 ```sql
